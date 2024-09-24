@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/drawable/backg.xml" value="0.3164102564102564" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/drawable/button1.xml" value="0.3164102564102564" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/drawable/button2.xml" value="0.3164102564102564" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/drawable/constrainlayoutstyle.xml" value="0.32037037037037036" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/drawable/constrainlayoutstyle2.xml" value="0.35208333333333336" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/drawable/cuse.xml" value="0.3164102564102564" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/drawable/imgstyle.xml" value="0.18333333333333332" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/drawable/linearlayoutstyle.xml" value="0.3164102564102564" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/layout/activity_main.xml" value="0.2988679352838745" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/layout/activity_main2.xml" value="0.37395833333333334" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/layout/activity_register.xml" value="0.2988679352838745" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/layout/activity_ticket_inquiry.xml" value="0.2988679352838745" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/layout/activity_ticket_list.xml" value="0.2988679352838745" />
+        <entry key="..\:/android_test_item/Aircraftinquiry/app/src/main/res/layout/ticketlistitem.xml" value="0.28125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
